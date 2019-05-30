@@ -27,4 +27,7 @@
 .th{
  height: 50px;
  text-align: left;
- 
+
+ td, th, tr{
+  color: white;
+ }
