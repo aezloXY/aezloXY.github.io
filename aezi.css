@@ -1,0 +1,14 @@
+/* Background */
+
+.background{
+ background-color: black;
+ color: white;
+}
+
+/* Retro Styles */
+
+.am{
+ font-family: monospace;
+ color: white;
+ font-size: 10;
+}
