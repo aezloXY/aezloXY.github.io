@@ -3,6 +3,7 @@
 .background{
  background-color: black;
  font-family: monospace;
+ color: white;
 }
 
 /* Retro Styles */
@@ -28,7 +29,4 @@
 th{
  height: 10px;
  text-align: left;
-
- td, th, tr{
-  color: white;
- }
+}
