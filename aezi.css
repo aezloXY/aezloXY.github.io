@@ -18,3 +18,13 @@
  color: red;
  font-size: 20;
 }
+
+.table{
+ border: 1px dashed white;
+ height: 100%
+}
+
+.th{
+ height: 50px;
+ text-align: left;
+ 
