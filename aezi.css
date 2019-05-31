@@ -6,11 +6,11 @@ html{
 
 h2, h3, h4, h5, h6, p{ 
  font-family: monospace;
- color: white;
+ color: blue;
 }
 
 h1{
  font-family: "Press Start 2P", cursive;
- color: blue;
- font-size: 48px;
+ color: white;
+ font-size: 24px;
 }
