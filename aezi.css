@@ -1,19 +1,5 @@
 /* Retro Style */
 
-.am{
- font-size: 10px;
-}
-
-.az{
- color: blue;
- font-size: 40px;
-}
-
-table, th, td {
-  border: 1px dashed white;
-  border-collapse: collapse;
-}
-
 html{ 
  background-color: black;
  font-family: monospace;
