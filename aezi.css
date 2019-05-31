@@ -1,7 +1,15 @@
 /* Retro Style */
 
-html{ 
+html{
  background-color: black;
+}
+
+h2, h3, h4, h5, h6, p{ 
  font-family: monospace;
  color: white;
+}
+
+h1{
+ font-family: "Press Start 2P", cursive;
+ color: blue;
 }
