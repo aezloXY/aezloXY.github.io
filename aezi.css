@@ -6,7 +6,7 @@ html{
 
 h2, h3, h4, h5, h6, p{ 
  font-family: monospace;
- color: red;
+ color: #00b6ff;
 }
 
 h1{
@@ -21,8 +21,8 @@ img .cl{
  margin-bottom: 5px;
 }
 
-img .lc{
+p .lc{
  float: right;
  margin-left: 10px;
- margin-bottom: 5px;
+ margin-top: 5px;
 }
